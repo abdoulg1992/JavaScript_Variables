@@ -23,3 +23,16 @@ let city = "New York city";
 let pastime = "like to read true story Books "
 //console.log(fullName + " " + "live in" + " " + city + " " + "and" + pastime)
 console.log(`${fullName} live in ${city} and ${pastime}`);
+
+// Arithmetic Operators
+console.log(5 + 2);
+console.log(5 - 2);
+console.log(5 * 2);
+console.log(10 / 2);
+console.log(32 % 6);
+console.log(6**7);
+
+// Assignment Operators
+let result = 10;
+//console.log(result++);
+console.log(++result);
